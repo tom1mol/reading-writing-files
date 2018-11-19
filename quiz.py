@@ -1,4 +1,4 @@
-f = open('data.txt', 'r')       #variable f..and open data.txt file for reading
+f = open('data.txt', 'r')       #the open function opens a file. returns a file handle whic is stored in f
 lines = f.read()           #changed to read from readlines as readlines split it into line of strings
                             #all data now in single string and appears as text not a list of strings
                             #new line character(\n) causes the string to be displayed over 4 lines
