@@ -6,6 +6,8 @@ File Access Modes                               https://youtu.be/1kwKTo-3VAs
 File Handles                                    https://youtu.be/NT-IOdPqilo
 Console File Access - Part One                  https://youtu.be/x_fZNObVBkM
 Console File Access - Part Two                  https://youtu.be/BfCcY7F8RZQ
+Walkthrough Project: Quiz Game                  https://youtu.be/SzaB442nXws
+Walkthrough Project - Part One                  https://youtu.be/qDpTuMTYGbo
 
 
 
