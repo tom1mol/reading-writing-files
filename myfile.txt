@@ -1,0 +1,25 @@
+Line 0
+Line 2
+Line 6
+Line 4
+Line 5
+
+
+started off with text below in myfile.txt file
+Line 1
+Line 2
+Line 3
+Line 4
+
+in the console we enter:
+f = open("myfile.txt", "r+")
+f.write("Line 0")
+6
+current_position = f.tell()
+f.seek(current_position + 8)
+14
+f.write("Line 6")
+21
+f.seek(0, 2)
+27
+f.write("\nLine 5")
